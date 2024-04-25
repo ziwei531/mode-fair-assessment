@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Macbook Apple 1",
+            "description": "Macbook Apple 1 - Lorem ipsum dolor sit amet.",
+            "price": 1999.99,
+            "availability": true,
+            "specs": {
+                "processor": "Intel Core i5",
+                "memory": "8GB RAM",
+                "storage": "256GB SSD"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Macbook Apple 2",
+            "description": "Macbook Apple 2 - Consectetur adipiscing elit.",
+            "price": 2499.99,
+            "availability": false,
+            "specs": {
+                "processor": "Intel Core i7",
+                "memory": "16GB RAM",
+                "storage": "512GB SSD"
+            }
+        }
+    ]
+}
